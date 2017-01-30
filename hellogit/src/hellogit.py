@@ -3,3 +3,4 @@ names = ["Bilbo","Frodo","Aragorn","Leglas","Gandalf","Boromir","Faramir"]
 for name in names:
     print("Hello, {}".format(name))
     print("How are you doing today?")
+# add 変更をインデックスに登録する
